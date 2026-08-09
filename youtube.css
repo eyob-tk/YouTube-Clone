@@ -236,6 +236,10 @@ body{
     }
 }
 
+.video-preview:hover{
+    background-color: rgb(232, 228, 228);
+}
+
 .thumbnail-row{
     margin-bottom: 8px;
     position: relative;
