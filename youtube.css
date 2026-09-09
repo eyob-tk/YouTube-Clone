@@ -257,6 +257,7 @@ body{
     font-weight: 500;
     padding: 4px;
     border-radius: 2px;
+    opacity: 0.72;
 }
 .video-info-grid{
     display: grid;
